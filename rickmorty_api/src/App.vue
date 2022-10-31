@@ -1,5 +1,6 @@
 <template>
   <nav>
+    <h1>Rick and Morty</h1>
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
   </nav>
@@ -17,6 +18,7 @@
 
 nav {
   padding: 30px;
+  color: #42b983;
 }
 
 nav a {
