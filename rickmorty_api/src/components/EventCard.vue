@@ -55,7 +55,7 @@ export default {
 	width: 320px;
 	height: auto;
 	min-height: 450px;
-	background: rgb(60, 62, 68);
+	background: rgb(188, 26, 34);
 	border-radius: 20px;
 	overflow: hidden;
 	padding: 10px 15px;
