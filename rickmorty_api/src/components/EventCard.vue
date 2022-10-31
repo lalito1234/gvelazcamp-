@@ -93,7 +93,7 @@ img {
 	margin: 0;
 }
 .event-link {
-	color: black;
+	color: rgb(255, 255, 255);
 	text-decoration: none;
 	font-weight: 100;
 }
