@@ -3,6 +3,9 @@
     <div class="btn-container">
 		<button v-on:click="prevPage">PREV</button>
 		<button v-on:click="nextPage">NEXT</button>
+		&nbsp;
+		&nbsp;
+		&nbsp;
 	</div>
 	<br/>
 	<div>
