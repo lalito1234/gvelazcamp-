@@ -10,6 +10,7 @@
 	<br/>
 	<div>
 		<label>Order By :</label>
+		&nbsp;
 		<select @change="changeVal($event)">
 			<option>Select</option>
 			<option value="asc">Ascending</option>
@@ -18,6 +19,7 @@
 	</div>
 	<div>
 		<label>Filter By Status :</label>
+		&nbsp;
 		<select @change="changeStatus($event)">
 			<option>Select</option>
 			<option value="alive">Alive</option>
