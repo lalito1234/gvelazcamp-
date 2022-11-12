@@ -21,9 +21,8 @@ npm run lint
 ```
 
 ### run serve
-npm install
--
-npm run-serve
+1) npm install
+2) npm run serve
 
 ### Node
 
